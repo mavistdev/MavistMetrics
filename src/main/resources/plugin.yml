@@ -1,0 +1,4 @@
+name: MavistMetricsEx
+version: '${project.version}'
+main: ru.mavist.mavistmetrics.MavistMetricsEx
+api-version: '1.20'
